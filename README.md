@@ -10,6 +10,6 @@
 <li>JavaScript</li>
 </ul>
 
-<h3>I'd like to thank <mark><q>Programming Hero</q> <mark/> for providing the opportunity to work on this project and learn more about web development.</h3>
+<h3>I'd like to thank <mark> <q>Programming Hero</q> </mark> for providing the opportunity to work on this project and learn more about web development.</h3>
 
 <h6>To view the project, simply clone the repository and open the 'index.html' file in your web browser.</h6>
