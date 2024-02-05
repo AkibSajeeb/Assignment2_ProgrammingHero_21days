@@ -3,8 +3,8 @@
 
 <p>As a newcomer to HTML, CSS, and JavaScript DOM manipulation, the learning curve was steep initially. Understanding the basics of each technology and how they interacted took time and effort.</p>
 
-<ul>
 <b>Technologies Used:</b>
+<ul>
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
