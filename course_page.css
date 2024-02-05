@@ -1,0 +1,475 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.logo_img {
+    width: 72px;
+    height: 59px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    margin-left: 136px;
+}
+
+.eschool h4 {
+    font-family: Rubik;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #56548C;
+    margin-left: -1px;
+    margin-top: 30px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #000000;
+    width: 100px;
+    display: block;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+button {
+    border: none;
+}
+
+#btn_1 button {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    background: #21b573;
+    border-radius: 33px;
+    width: 104px;
+    height: 43px;
+    padding: 12px, 28px, 12px, 28px;
+    gap: 10px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -5%;
+    margin-left: 823px;
+    padding: 5px 10px;
+}
+
+.all_courses h2 {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #413960;
+    margin-top: 100px;
+    margin-left: 137px;
+}
+
+.display_img img {
+    width: 331px;
+    height: 234px;
+    margin-top: 26px;
+    margin-left: 20px;
+    border-radius: 11px;
+}
+
+.courses h6 {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #413960;
+    margin-top: 13px;
+    margin-left: 20px;
+}
+
+.courses p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #585859;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+.courses button {
+    width: 137px;
+    height: 35px;
+    margin-top: 14px;
+    margin-left: 20px;
+    padding: 8px, 28px, 8px, 28px;
+    border-radius: 33px;
+    gap: 10px;
+    background: #21B573;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.calender_icon img {
+    width: 24px;
+    height: 24px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.people_icon img {
+    width: 24px;
+    height: 24px;
+    margin-top: 35px;
+    margin-left: 40px;
+}
+
+.date p,
+.people p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+.date p {
+    display: block;
+    align-items: center;
+}
+
+.people p {
+    display: block;
+    align-items: center;
+}
+
+.people p {
+    margin-left: 70px;
+}
+
+.date_seat {
+    display: flex;
+}
+
+.first_course {
+    width: 370px;
+    height: 483px;
+    margin-top: 50px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    align-items: center;
+}
+
+.second_course {
+    width: 370px;
+    height: 483px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    align-items: center;
+}
+
+.courses {
+    display: flex;
+    margin-top: -50px;
+    margin-left: 135px;
+}
+
+.third_course {
+    width: 370px;
+    height: 483px;
+    margin-top: 50px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    align-items: center;
+}
+
+.fourth_course {
+    width: 370px;
+    height: 483px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    align-items: center;
+}
+
+#card_2 {
+    margin-top: 50px;
+}
+
+.fifth_course {
+    width: 370px;
+    height: 483px;
+    margin-top: 50px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    align-items: center;
+}
+
+.sixth_course {
+    width: 370px;
+    height: 483px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    align-items: center;
+}
+
+#card_3 {
+    margin-top: 50px;
+}
+
+.cart_section img {
+    width: 70px;
+    height: 70px;
+    border-radius: 11px;
+}
+
+.close img {
+    width: 24px;
+    height: 24px;
+    margin-left: 50px;
+    margin-top: -30px;
+    display: block;
+}
+
+.cart_section p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -30px;
+    margin-left: -5px;
+}
+
+.tk p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: -270px;
+}
+
+.cart_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -20px;
+}
+
+.cart_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -20px;
+    margin-top: -30px;
+}
+
+.cart_3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -20px;
+    margin-top: -30px;
+}
+
+.cart_4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -20px;
+    margin-top: -30px;
+}
+
+.picture {
+    margin: 20px;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 30px 25px 30px;
+}
+
+#subtotal-container {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #585859;
+    margin-left: 80px;
+}
+
+.subtotal span {
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: left;
+    color: #585859CC;
+    margin-left: 110px;
+    margin-top: -20px;
+    display: block;
+}
+
+#total-container {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #585859;
+}
+
+hr {
+    width: 321px;
+    border: 1px;
+    border: 1px solid #00000080;
+    margin-top: -10px;
+}
+
+.checkout_btn button {
+    width: 124px;
+    height: 35px;
+    margin-left: 200px;
+    padding: 8px, 28px, 8px, 28px;
+    border-radius: 33px;
+    gap: 10px;
+    background: #21B573;
+    font-family: Roboto;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: -5px;
+    margin-left: 220px;
+    display: block;
+
+}
+
+.checkout {
+    width: 370px;
+    height: 483px;
+    margin-top: -1550px;
+    margin-left: 960px;
+    border-radius: 18px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+}
+
+footer {
+    width: 100%;
+    height: 50vh;
+    margin-top: 1200px;
+    background: #282531;
+    padding: 2%;
+}
+
+.footer_logo {
+    padding-top: 20px;
+}
+
+.slogan p {
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-left: 135px;
+}
+
+.list_title {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+footer ul li a {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 1%;
+}
+
+.links {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: -15%;
+    margin-right: 135px;
+    gap: 100px;
+}
+
+.copyright p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #CDCDCD;
+    margin-top: 60px;
+}
