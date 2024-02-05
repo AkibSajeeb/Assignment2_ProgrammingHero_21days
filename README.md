@@ -10,3 +10,5 @@
 </ul>
 <h4>I'd like to thank <q>Programming Hero</q> for providing the opportunity to work on this project and learn more about web development.</h4>
 <h6>To view the project, simply clone the repository and open the 'index.html' file in your web browser.</h6>
+
+Simply <a href="https://akibsajeeb.github.io/Assignment2_ProgrammingHero_21days/"> Click Here <a/>
