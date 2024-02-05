@@ -1,9 +1,9 @@
 # Assignment2_ProgrammingHero_21days
-<h4>I completed this project as part of a 21-day BootCamp at Programming Hero. It served as my second assignment where I had to work on HTML, CSS, and JavaScript DOM manipulation.</h4> 
+<h3>I completed this project as part of a 21-day BootCamp at Programming Hero. It served as my second assignment where I had to work on HTML, CSS, and JavaScript DOM manipulation.</h4> 
 
 <p>As a newcomer to HTML, CSS, and JavaScript DOM manipulation, the learning curve was steep initially. Understanding the basics of each technology and how they interacted took time and effort.</p>
 
-<b>Technologies Used:</b>
+<h5>Technologies Used:</h5>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
